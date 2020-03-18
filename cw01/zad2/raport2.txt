@@ -1,0 +1,120 @@
+ 
+Operation: compareListOfTwoFiles
+Real time: 0.140000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.018000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.025000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.032000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.008000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.012000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.160000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.035000
+User time: 0.000000
+System time: 0.010000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.180000
+User time: 0.000000
+System time: 0.000000

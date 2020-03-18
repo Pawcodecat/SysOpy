@@ -1,0 +1,25 @@
+createTable 100
+compareListOfTwoFiles "a.txt:b.txt o.txt:p.txt a.txt:o.txt b.txt:p.txt b.txt:o.txt e.txt:f.txt h.txt:i.txt k.txt:l.txt a.txt:h.txt j.txt:p.txt p.txt:p.txt"
+compareListOfTwoFiles "a.txt:b.txt"
+removeBlock 0
+removeBlock 1
+compareListOfTwoFiles "a.txt:b.txt a.txt:a.txt b.txt:b.txt a.txt:p.txt e.txt:f.txt m.txt:n.txt n.txt:o.txt"
+removeOperation 2 0
+removeBlock 3
+removeOperation 5 1
+compareListOfTwoFiles "o.txt:a.txt a.txt:p.txt b.txt:m.txt k.txt:k.txt"
+removeOperation 6 1
+removeBlock 1
+removeBlock 7
+compareListOfTwoFiles "k.txt:l.txt"
+removeOperation 3 0
+removeBlock 4
+removeBlock 8
+compareListOfTwoFiles "a.txt:b.txt"
+compareListOfTwoFiles "a.txt:b.txt o.txt:p.txt a.txt:o.txt b.txt:p.txt b.txt:o.txt a.txt:p.txt e.txt:f.txt m.txt:n.txt n.txt:o.txt e.txt:f.txt h.txt:i.txt k.txt:l.txt a.txt:h.txt j.txt:p.txt p.txt:p.txt"
+removeBlock 9
+compareListOfTwoFiles "o.txt:a.txt a.txt:k.txt n.txt:m.txt i.txt:l.txt i.txt:l.txt a.txt:b.txt o.txt:p.txt a.txt:o.txt b.txt:p.txt"
+removeOperation 11 0
+removeOperation 12 0
+removeBlock 13
+compareListOfTwoFiles "o.txt:a.txt a.txt:k.txt n.txt:m.txt b.txt:o.txt a.txt:p.txt e.txt:f.txt m.txt:n.txt n.txt:o.txt e.txt:f.txt h.txt:i.txt k.txt:l.txt a.txt:h.txt j.txt:u.txt u.txt:u.txt"

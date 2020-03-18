@@ -1,0 +1,835 @@
+Static library O1:
+Operation: compareListOfTwoFiles
+Real time: 0.170000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.030000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.040000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.008000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Shared library: O1
+Operation: compareListOfTwoFiles
+Real time: 0.160000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.040000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.045000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.012000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Dynamic library: O1
+Operation: compareListOfTwoFiles
+Real time: 0.160000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.032000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.045000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.008000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Static library O2:
+Operation: compareListOfTwoFiles
+Real time: 0.160000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.038000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.040000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.020000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Shared library: O2
+Operation: compareListOfTwoFiles
+Real time: 0.180000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.040000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.040000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.010000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Dynamic library: O2
+Operation: compareListOfTwoFiles
+Real time: 0.170000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.029000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.050000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.012000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Static library: Ofast
+Operation: compareListOfTwoFiles
+Real time: 0.180000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.040000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.047000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.010000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Static library: Os
+Operation: compareListOfTwoFiles
+Real time: 0.200000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.040000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.050000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.010000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Static library: O0
+Operation: compareListOfTwoFiles
+Real time: 0.190000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.030000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.050000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.020000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Shared library: O0
+Operation: compareListOfTwoFiles
+Real time: 0.190000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.040000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.040000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.020000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Dynamic library: O0
+Operation: compareListOfTwoFiles
+Real time: 0.190000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.032000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.050000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: compareListOfTwoFiles
+Real time: 0.008000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeOperation
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
+
+Operation: removeBlock
+Real time: 0.000000
+User time: 0.000000
+System time: 0.000000
