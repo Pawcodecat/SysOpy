@@ -66,7 +66,7 @@ testAll:
 	make testDyn
 	mv report.txt $(REPORT_FILE)
 
-test_allO:
+testAllO:
 	printf "Static library O1:\n" > report.txt
 	make staticO O=O1
 	make test

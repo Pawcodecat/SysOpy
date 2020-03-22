@@ -271,32 +271,32 @@ void removeArray()
     free(mainArray);
 }
 
-int main(){
+// int main(){
     
-    // makeListOfPair("txt/a.txt:txt/b.txt txt/c.txt:txt/d.txt txt/a.txt:txt/c.txt txt/e.txt:txt/f.txt txt/f.txt:txt/c.txt");
-    // createTable(20);
-    // compareListOfTwoFiles();
-    // carryResultToArray();
+//     makeListOfPair("txt/a.txt:txt/b.txt txt/c.txt:txt/d.txt txt/a.txt:txt/c.txt txt/e.txt:txt/f.txt txt/f.txt:txt/c.txt");
+//     createTable(20);
+//     compareListOfTwoFiles();
+//     carryResultToArray();
 
-    // // printf("%s", mainArray->arrayOfBlocks[0]->operations[2]->text);
-    // removeBlock(0);
-    // // printf("%s", mainArray->arrayOfBlocks[2]->operations[0]->text);
-    // compareListOfTwoFiles();
-    // carryResultToArray();
-    // removeOperation(0, 0);
-    // removeOperation(0, 0);
-    // removeOperation(0, 23);
-    // removeOperation(0, 3);
-    // carryResultToArray();
+//     // printf("%s", mainArray->arrayOfBlocks[0]->operations[2]->text);
+//     removeBlock(0);
+//     // printf("%s", mainArray->arrayOfBlocks[2]->operations[0]->text);
+//     compareListOfTwoFiles();
+//     carryResultToArray();
+//     removeOperation(0, 0);
+//     removeOperation(0, 0);
+//     removeOperation(0, 23);
+//     removeOperation(0, 3);
+//     carryResultToArray();
 
-    // compareListOfTwoFiles();
-    // // printf("%d\n", counterOfOperations(0));
+//     compareListOfTwoFiles();
+//     // printf("%d\n", counterOfOperations(0));
 
     
 
-    // // printf("\n\n\n\n\n%s\n\n", returnOperation(0, 1));
-    // removeArray();
+//     // printf("\n\n\n\n\n%s\n\n", returnOperation(0, 1));
+//     removeArray();
   
     
-    // return 0;
-}
+//     return 0;
+// }
