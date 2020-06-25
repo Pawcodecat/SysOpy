@@ -1,0 +1,3 @@
+cat Makefile | grep test | wc -w
+ls -al | grep Makefile
+cat main.c | grep fork | wc -w

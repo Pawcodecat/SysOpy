@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "signal.h": "c",
+        "type_traits": "c",
+        "typeinfo": "c"
+    }
+}
